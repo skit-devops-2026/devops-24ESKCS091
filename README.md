@@ -16,8 +16,8 @@ A web application project for managing personal expenses. The project will be de
 ## Tech stack
 
 - Frontend: HTML , CSS , Javascript
-- Backend: 
-- Database: 
+- Backend: To be decided 
+- Database: To be decided 
 
 ## Running locally
 
