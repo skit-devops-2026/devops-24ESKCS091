@@ -21,6 +21,7 @@ A web application designed to help users record and organize their personal expe
 
 ## Running locally
 
+Follow these commands from the project root after the required setup is configured.
 ```bash
 make install
 make run
