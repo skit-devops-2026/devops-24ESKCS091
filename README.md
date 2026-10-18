@@ -11,7 +11,7 @@
 
 ## About
 
-A web application project for managing personal expenses. The project will be developed and configured as part of the CSUL511 DevOps assignment.
+A web application designed to help users record and organize their personal expenses. This project is being developed as part of the CSUL511 DevOps assignment, with a focus on version control, collaboration, and continuous integration.
 
 ## Tech stack
 
